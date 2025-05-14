@@ -31,3 +31,9 @@ def calibration_curve(model, x_val, y_val):
     plt.legend()
     plt.show()
 ```
+
+## Just to not get bored, I'm going to create a task list 
+
+- [X] Commit all the changes
+- [ ] Use short but explicative descriptions
+- [ ] End this course
